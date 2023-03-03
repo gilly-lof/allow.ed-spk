@@ -1,0 +1,1 @@
+# allow.ed-spk
